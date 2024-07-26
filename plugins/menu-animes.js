@@ -23,9 +23,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ┃➤
  ┃➤    𝗛ola, ${taguser}
  ┃➤
- ┃➤ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : 𝑺𝒉𝒂𝒅𝒐𝒘 🤖
- ┃➤ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : https://www.instagram.com/shadow.vz/
- ┃➤ Nᴜᴍᴇʀᴏ wa.me/525541081250
+ ┃➤ 𝐏𝐫𝐨𝐩𝐢𝐞𝐭𝐚𝐫𝐢𝐨 : 𝑰𝒂𝒏 𝑹𝒐𝒘𝒍 🤖
+ ┃➤ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://facebook.com/ianrowl
  ┃➤ Fᴇᴄʜᴀ : ${date}
  ╰━━━━━━━━━━━━━
 
